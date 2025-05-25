@@ -5,6 +5,7 @@ Overview
 This project focuses on preparing raw datasets for analysis and machine learning by applying robust data cleaning and feature engineering techniques. These steps are critical for improving data quality, uncovering hidden insights, and enhancing model performance.
 
 Objectives
+
 Clean and preprocess raw data
 
 Handle missing or inconsistent values
@@ -18,6 +19,7 @@ Create new features to improve model accuracy
 Prepare a final dataset suitable for modeling and analysis
 
 Key Components
+
 🔧 Data Cleaning
 Removing duplicates
 
